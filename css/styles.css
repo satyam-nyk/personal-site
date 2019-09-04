@@ -1,0 +1,22 @@
+body{
+  background-color:snow;
+
+}
+h1{
+  color: darkgoldenrod;
+}
+h2{
+  color: darkgoldenrod;
+}
+h3{
+  color:darkgoldenrod;
+}
+
+hr{
+  background-color: while;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 3px;
+  width: 50px;
+  border-color: white;
+  }
